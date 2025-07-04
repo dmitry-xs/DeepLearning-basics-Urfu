@@ -1,3 +1,5 @@
+#Домашнее задание к уроку 3: Полносвязные сети
+##Задание 1: Эксперименты с глубиной сети
 ```
 +----------+-----------------------+-------------------+---------------------+------------------+
 | Модель   | Точность (обучение)   | Точность (тест)   |   Потери (обучение) | Время обучения   |
@@ -51,6 +53,8 @@
 ![image](https://github.com/user-attachments/assets/c51c55b8-4e39-4d35-8968-5f12ad305233)
 ![image](https://github.com/user-attachments/assets/2aea7b5d-9ae5-49dc-8e2b-66fbf2969fe5)
 
+## Задание 2: Эксперименты с шириной сети
+### 2.1 Сравнение моделей разной ширины
 ```
 +--------------------+--------------------+-------------------+------------------+-------------+
 | Конфигурация       | Точность (train)   | Точность (test)   | Время обучения   | Параметры   |
@@ -66,7 +70,7 @@
 ```
 ![image](https://github.com/user-attachments/assets/6f089005-3b3a-4592-b4ff-6bdd18367909)
 
-2.2
+### 2.2 Оптимизация архитектуры
 
 ```
 +--------------------+--------------------+-------------------+------------------+-------------+
@@ -89,12 +93,13 @@
 ```
 ![image](https://github.com/user-attachments/assets/aaa65d4e-0be4-47e3-b751-2ddb7017ea39)
 
-3.1
+## Задание 3: Эксперименты с регуляризацией 
+### 3.1 Сравнение техник регуляризации
 ![image](https://github.com/user-attachments/assets/590a78f7-fd66-4672-b556-a48e4180d148)
 ![image](https://github.com/user-attachments/assets/02ecc7a1-e197-4f14-a2f2-31627caf1855)
 ![image](https://github.com/user-attachments/assets/0ffd4943-a19e-4005-9081-894f5b022044)
 
-3.2
+### 3.2 Адаптивная регуляризация 
 ![image](https://github.com/user-attachments/assets/205adf76-cc22-4c0f-984b-622e3b53975f)
 ![image](https://github.com/user-attachments/assets/08fecc2b-d10c-4faa-88b5-e5091d725e28)
 ![image](https://github.com/user-attachments/assets/fd8e918d-762d-4c6f-b05f-83f6f4efaf8b)
