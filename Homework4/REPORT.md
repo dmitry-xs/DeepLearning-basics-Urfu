@@ -3,7 +3,7 @@
 ### 1.1 Сравнение на MNIST 
 В результате обучения получили следующие результаты:
 Первая модель - полносвязная сеть с 3 слоями.
-![fc_network_learning_curves](https://github.com/user-attachments/assets/2f3b19a0-26aa-4923-9b39-d64e92896dbd) { width=50% }
+![Alt](https://github.com/user-attachments/assets/2f3b19a0-26aa-4923-9b39-d64e92896dbd){ width=50% }
 Loss составил около 0.05
 Точность на тренировочных данных — ~97%, на тестовых — ~92-93%
 
