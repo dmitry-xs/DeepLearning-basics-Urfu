@@ -3,17 +3,17 @@
 ### 1.1 Сравнение на MNIST 
 В результате обучения получили следующие результаты:
 Первая модель - полносвязная сеть с 3 слоями.
-![fc_network_learning_curves](https://github.com/user-attachments/assets/2f3b19a0-26aa-4923-9b39-d64e92896dbd)
+![fc_network_learning_curves](https://github.com/user-attachments/assets/2f3b19a0-26aa-4923-9b39-d64e92896dbd) { width=50% }
 Loss составил около 0.05
 Точность на тренировочных данных — ~97%, на тестовых — ~92-93%
 
 Вторая модель - простая CCN модель.
-![simple_cnn_learning_curves](https://github.com/user-attachments/assets/8eb5e977-b2cb-49fe-aa9d-090ac33d7006)
+![simple_cnn_learning_curves](https://github.com/user-attachments/assets/8eb5e977-b2cb-49fe-aa9d-090ac33d7006) { width=50% }
 Потери после обучения составляют примерно 0.
 Из графика точноти на тесте видно, что точность на тренировочных данных достигает ~99.5%, а на тестовых — ~98.5%
 
 Третья модель - CNN with Residual.
-![cnn_with_residual_learning_curves](https://github.com/user-attachments/assets/9a53f774-8c1f-4626-9e61-fe40533815bc)
+![cnn_with_residual_learning_curves](https://github.com/user-attachments/assets/9a53f774-8c1f-4626-9e61-fe40533815bc) { width=50% }
 Видно, что точность составляет всего 87%, а потери составляют чуть меньше чем 0.4.
 
 Сравним все модели.
