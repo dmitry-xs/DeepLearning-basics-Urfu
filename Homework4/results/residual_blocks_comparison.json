@@ -1,0 +1,32 @@
+{
+    "Basic Residual": {
+        "train_losses": [
+            1.3165150180344691
+        ],
+        "train_accs": [
+            52.466
+        ],
+        "test_accs": [
+            57.32
+        ],
+        "total_time": 13.723660230636597,
+        "avg_epoch_time": 13.723627805709839,
+        "inference_time": 1.3187650680541991,
+        "num_params": 308650
+    },
+    "Bottleneck Residual": {
+        "train_losses": [
+            1.3913389371179254
+        ],
+        "train_accs": [
+            49.372
+        ],
+        "test_accs": [
+            57.93
+        ],
+        "total_time": 15.496524095535278,
+        "avg_epoch_time": 15.496490240097046,
+        "inference_time": 1.4214979410171509,
+        "num_params": 128650
+    }
+}

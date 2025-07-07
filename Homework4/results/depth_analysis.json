@@ -1,0 +1,62 @@
+{
+    "Shallow (2 layers)": {
+        "train_losses": [
+            1.7252949663745167
+        ],
+        "train_accs": [
+            35.582
+        ],
+        "test_accs": [
+            44.25
+        ],
+        "total_time": 14.682295560836792,
+        "avg_epoch_time": 14.682260990142822,
+        "inference_time": 1.2462906122207642,
+        "num_params": 113866
+    },
+    "Medium (4 layers)": {
+        "train_losses": [
+            1.7335292916468648
+        ],
+        "train_accs": [
+            34.03
+        ],
+        "test_accs": [
+            47.0
+        ],
+        "total_time": 21.72414517402649,
+        "avg_epoch_time": 21.72411608695984,
+        "inference_time": 1.3226672172546388,
+        "num_params": 298378
+    },
+    "Deep (6+ layers)": {
+        "train_losses": [
+            1.7962993674570946
+        ],
+        "train_accs": [
+            30.448
+        ],
+        "test_accs": [
+            41.99
+        ],
+        "total_time": 29.59424138069153,
+        "avg_epoch_time": 29.594215631484985,
+        "inference_time": 1.337240219116211,
+        "num_params": 482890
+    },
+    "ResNet-like": {
+        "train_losses": [
+            1.2721586163391543
+        ],
+        "train_accs": [
+            53.796
+        ],
+        "test_accs": [
+            59.44
+        ],
+        "total_time": 51.61537790298462,
+        "avg_epoch_time": 51.615352153778076,
+        "inference_time": 2.1290196657180784,
+        "num_params": 2777674
+    }
+}

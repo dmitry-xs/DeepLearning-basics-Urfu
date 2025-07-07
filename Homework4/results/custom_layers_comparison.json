@@ -1,0 +1,17 @@
+{
+    "Standard CNN": {
+        "train_losses": [
+            1.2963160930387199
+        ],
+        "train_accs": [
+            54.464
+        ],
+        "test_accs": [
+            63.82
+        ],
+        "total_time": 10.180105209350586,
+        "avg_epoch_time": 10.18007755279541,
+        "inference_time": 1.2226868867874146,
+        "num_params": 183242
+    }
+}
